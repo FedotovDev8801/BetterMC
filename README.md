@@ -1,3 +1,5 @@
+<img src="readme-image.png" alt="BetterMC Logo" width="200"/>
+
 # Have you ever wanted vertical slabs, or more readable F3 menu in the game?
 
 This modpack has around _85 mods, resourcepacks and shaders_ to make your game **BETTER**.
